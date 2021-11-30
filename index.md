@@ -9,5 +9,5 @@
 ## Work
 - Case Study: Title
 - Impression
-- [Character & Description](/01-character-description/)
+- [Character & Description](01-character-description/)
 - Design Story (WIP)
