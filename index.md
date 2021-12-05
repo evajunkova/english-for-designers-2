@@ -10,4 +10,4 @@ About text…
 - Case Study: Title
 - Impression
 - [Character & Description](01-character-description/)
-- Design Story (WIP)
+- Storytelling (WIP)
