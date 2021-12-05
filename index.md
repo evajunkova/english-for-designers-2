@@ -11,3 +11,7 @@ About text…
 - Impression
 - [Character & Description](01-character-description/)
 - Storytelling (WIP)
+
+## Contact
+
+- ?
